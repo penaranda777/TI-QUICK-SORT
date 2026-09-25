@@ -2,6 +2,6 @@
 <project version="4">
   <component name="ScalaCompilerConfiguration">
     <option name="separateProdTestSources" value="true" />
-    <profile name="sbt 1" modules="NombreDelProyecto,NombreDelProyecto.main,NombreDelProyecto.test,TI-DISCRETASII,TI-DISCRETASII.main,TI-DISCRETASII.test,ti-discretasii_798,ti-discretasii_798.main,ti-discretasii_798.test" />
+    <profile name="sbt 1" modules="NombreDelProyecto,NombreDelProyecto.main,NombreDelProyecto.test,TI-DISCRETASII,TI-DISCRETASII.main,TI-DISCRETASII.main~1,TI-DISCRETASII.test,TI-DISCRETASII.test~1,TI-QUICK-SORT,TI-QUICK-SORT.main,TI-QUICK-SORT.test,ti-discretasii_798,ti-discretasii_798.main,ti-discretasii_798.test" />
   </component>
 </project>

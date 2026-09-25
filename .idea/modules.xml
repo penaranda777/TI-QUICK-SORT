@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/TI-DISCRETASII.iml" filepath="$PROJECT_DIR$/.idea/TI-DISCRETASII.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TI-DISCRETASII/TI-DISCRETASII.TI-DISCRETASII-build.iml" filepath="$PROJECT_DIR$/.idea/modules/TI-DISCRETASII/TI-DISCRETASII.TI-DISCRETASII-build.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TI-DISCRETASII/TI-DISCRETASII.main.iml" filepath="$PROJECT_DIR$/.idea/modules/TI-DISCRETASII/TI-DISCRETASII.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TI-DISCRETASII/TI-DISCRETASII.test.iml" filepath="$PROJECT_DIR$/.idea/modules/TI-DISCRETASII/TI-DISCRETASII.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TI-QUICK-SORT/TI-QUICK-SORT.iml" filepath="$PROJECT_DIR$/.idea/modules/TI-QUICK-SORT/TI-QUICK-SORT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TI-QUICK-SORT/TI-QUICK-SORT.TI-QUICK-SORT-build.iml" filepath="$PROJECT_DIR$/.idea/modules/TI-QUICK-SORT/TI-QUICK-SORT.TI-QUICK-SORT-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TI-QUICK-SORT/TI-QUICK-SORT.main.iml" filepath="$PROJECT_DIR$/.idea/modules/TI-QUICK-SORT/TI-QUICK-SORT.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TI-QUICK-SORT/TI-QUICK-SORT.test.iml" filepath="$PROJECT_DIR$/.idea/modules/TI-QUICK-SORT/TI-QUICK-SORT.test.iml" />
     </modules>
   </component>
 </project>

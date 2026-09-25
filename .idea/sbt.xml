@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ScalaSbtSettings">
+    <option name="customVMPath" value="$USER_HOME$/.jdks/ms-21.0.12.1" />
     <option name="linkedExternalProjectsSettings">
       <SbtProjectSettings>
         <option name="converterVersion" value="2" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="modules">
           <set>
-            <option value="C:\Users\USUARIO\Desktop\Universidad\TI-DISCRETASII" />
-            <option value="C:\Users\USUARIO\Desktop\Universidad\TI-DISCRETASII\project" />
+            <option value="C:\Users\LENOVO\Documents\Cuarto Semestre\Discretas II\TI-QUICK-SORT" />
+            <option value="C:\Users\LENOVO\Documents\Cuarto Semestre\Discretas II\TI-QUICK-SORT\project" />
           </set>
         </option>
         <option name="sbtVersion" value="1.13.0" />
